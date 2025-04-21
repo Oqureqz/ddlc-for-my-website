@@ -1,3 +1,3 @@
 # DDLC Online Port
 For my website with games
-https://bit.ly/oqureqz
+https://bit.ly/conrs
